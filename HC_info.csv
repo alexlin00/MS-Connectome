@@ -1,0 +1,17 @@
+﻿Imaging ID,Gender,Age,RACE,ETHNICITY,Date of MRI,MRI?,Notes for MRI,Comments
+HC001_20180228,M,56,Black/African American,Not hispanic/latino,2/28/18,YES,,
+HC002_20180312,F,45,Black/African American,Not hispanic/latino,3/12/18,YES,"Missing T2 TSE, has FLAIR and extra 33 directions DTI",
+HC003_20180314,M,34,Asian,Not hispanic/latino,3/14/18,YES,,
+HC004_20180315,M,45,Black/African American,Not hispanic/latino,3/15/18,YES,,
+HC006_20180426,M,49,Black/African American,Not hispanic/latino,4/26/18,YES,,
+HC007_20180501,M,49,Other combinations not described,Not hispanic/latino,5/1/18,YES,,
+HC008_20180502,M,37,White,Not hispanic/latino,5/2/18,YES,,
+HC009_20180508,F,47,,,5/8/18,YES,Missing full dMRI,
+HC010_20180509,F,35,White,Not hispanic/latino,5/9/18,YES,,
+HC011_20180515,F,50,Black/African American,Not hispanic/latino,5/15/18,YES,,
+HC012_20180525,F,48,White,Not hispanic/latino,5/25/18,YES,,hx of LOC from MVA accident; no findings on imaging upon presenting to ER
+HC013_20180607,F,57,White,Declined,6/7/18,YES,,
+HC014_20180627,F,30,Black/African American,Not hispanic/latino,6/27/18,YES,,
+HC015_20180628,F,30,Black/African American,Not hispanic/latino,6/28/18,YES,,
+HC016_20180713,F,47,Black/African American,Not hispanic/latino,7/13/18,YES,,
+HC017_20180717,M,43,White,Hispanic,7/17/18,YES,,

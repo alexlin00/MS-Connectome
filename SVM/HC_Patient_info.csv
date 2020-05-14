@@ -1,0 +1,93 @@
+﻿ID,Gender,Age,Race,Ethnicity,Disease Duration,"Spinal Lesion Category (0 = none, 1 = 1 or 2 lesions, 2 = 3 or more lesions)",EDSS,MS?
+HC001_20180228,M,56,Black/African American,Not hispanic/latino,0,0,0,0
+HC002_20180312,F,45,Black/African American,Not hispanic/latino,0,0,0,0
+HC003_20180314,M,34,Asian,Not hispanic/latino,0,0,0,0
+HC004_20180315,M,45,Black/African American,Not hispanic/latino,0,0,0,0
+HC006_20180426,M,49,Black/African American,Not hispanic/latino,0,0,0,0
+HC007_20180501,M,49,Other combinations not described,Not hispanic/latino,0,0,0,0
+HC008_20180502,M,37,White,Not hispanic/latino,0,0,0,0
+HC009_20180508,F,47,,,0,0,0,0
+HC010_20180509,F,35,White,Not hispanic/latino,0,0,0,0
+HC011_20180515,F,50,Black/African American,Not hispanic/latino,0,0,0,0
+HC012_20180525,F,48,White,Not hispanic/latino,0,0,0,0
+HC013_20180607,F,57,White,Declined,0,0,0,0
+HC014_20180627,F,30,Black/African American,Not hispanic/latino,0,0,0,0
+HC015_20180628,F,30,Black/African American,Not hispanic/latino,0,0,0,0
+HC016_20180713,F,47,Black/African American,Not hispanic/latino,0,0,0,0
+HC017_20180717,M,43,White,Hispanic,0,0,0,0
+MS0001_20190107,F,37,white,not hispanic or latino or spanish origin,13,1,0,1
+MS0040_20180727,F,52,white,not hispanic or latino or spanish origin,11,2,1,1
+MS0046_20170614,M,52,white,not hispanic or latino or spanish origin,9,2,0,1
+MS0084_20171213,F,64,white,not hispanic or latino or spanish origin,33,1,1,1
+MS0087_20180822,M,45,white,not hispanic or latino or spanish origin,21,1,1.5,1
+MS0101_20190109,F,56,white,not hispanic or latino or spanish origin,23,1,1,1
+MS0105_20170927,M,58,white,not hispanic or latino or spanish origin,13,1,3.5,1
+MS0106_20180912,F,38,other combinations not described,hispanic or latino or spanish origin,14,2,0,0
+MS0108_20180410,F,51,white,not hispanic or latino or spanish origin,11,2,0,0
+MS0131_20180719,M,40,white,not hispanic or latino or spanish origin,13,1,1,1
+MS0159_20180202,F,58,other combinations not described,not hispanic or latino or spanish origin,22,0,2,2
+MS0160_20180601,M,46,white,hispanic or latino or spanish origin,16,2,2,2
+MS0190_20180606,F,35,black or african american,not hispanic or latino or spanish origin,11,0,0,0
+MS0204_20181120,M,61,white,not hispanic or latino or spanish origin,9,1,2,2
+MS0241_20180221,F,44,white,not hispanic or latino or spanish origin,10,2,0,0
+MS0266_20180212,F,54,white,declined,13,0,3,3
+MS0278_20180420,F,33,white,not hispanic or latino or spanish origin,10,2,0,0
+MS0282_20170519,M,38,white,not hispanic or latino or spanish origin,17,1,0,0
+MS0288_20180615,F,51,white,not hispanic or latino or spanish origin,10,1,0,0
+MS0397_20171213,M,40,other combinations not described,hispanic or latino or spanish origin,8,1,0,0
+MS0422_20170708,F,45,black or african american,not hispanic or latino or spanish origin,12,1,1.5,1.5
+MS0428_20170725,M,58,white,not hispanic or latino or spanish origin,14,0,7,7
+MS0448_20180302,F,64,white,not hispanic or latino or spanish origin,8,0,0,0
+MS0500_20180729,F,45,white,not hispanic or latino or spanish origin,11,1,1,1
+MS0514_20180608,F,56,black or african american,not hispanic or latino or spanish origin,31,2,2,2
+MS0517_20180803,F,56,white,not hispanic or latino or spanish origin,11,2,2,2
+MS0528_20181013,M,40,white,not hispanic or latino or spanish origin,10,0,1,1
+MS0531_20190220,M,41,declined,hispanic or latino or spanish origin,9,0,1,1
+MS0549_20180912,F,63,black or african american,declined,18,0,1.5,1.5
+MS0563_20171007,F,30,asian,not hispanic or latino or spanish origin,15,2,2,2
+MS0597_20170806,F,62,white,not hispanic or latino or spanish origin,28,0,8,8
+MS0618_20180711,F,43,black or african american,not hispanic or latino or spanish origin,11,2,3.5,3.5
+MS0623_20180110,F,50,white,hispanic or latino or spanish origin,8,0,0,0
+MS0657_20180724,F,64,white,not hispanic or latino or spanish origin,21,2,0,0
+MS0662_20180525,F,52,black or african american,not hispanic or latino or spanish origin,9,2,2,2
+MS0683_20170618,F,37,black or african american,not hispanic or latino or spanish origin,19,1,0,0
+MS0762_20180328,F,32,white,not hispanic or latino or spanish origin,11,1,0,0
+MS0771_20180421,F,43,white,not hispanic or latino or spanish origin,13,2,1,1
+MS0796_20180509,F,47,declined,declined,43,2,3.5,3.5
+MS0800_20180910,M,47,white,not hispanic or latino or spanish origin,8,2,2,2
+MS0831_20180609,F,38,asian,not hispanic or latino or spanish origin,17,0,2,2
+MS0853_20180718,M,64,white,not hispanic or latino or spanish origin,10,0,1,1
+MS0857_20171213,M,60,white,not hispanic or latino or spanish origin,23,0,0,0
+MS0877_20180615,F,35,white,not hispanic or latino or spanish origin,15,2,0,0
+MS0889_20180315,M,61,white,not hispanic or latino or spanish origin,7,0,3,3
+MS0921_20180912,F,47,white,hispanic or latino or spanish origin,7,2,0,0
+MS0949_20180915,M,35,white,not hispanic or latino or spanish origin,10,2,0,0
+MS0967_20180203,M,33,black or african american,not hispanic or latino or spanish origin,7,0,0,0
+MS1009_20180406,F,34,white,hispanic or latino or spanish origin,8,0,1,1
+MS1022_20180308,M,35,white,not hispanic or latino or spanish origin,6,1,0,0
+MS1024_20180208,M,64,white,not hispanic or latino or spanish origin,7,0,2,2
+MS1025_20180722,F,31,other combinations not described,hispanic or latino or spanish origin,6,1,0,0
+MS1081_20181017,F,46,white,not hispanic or latino or spanish origin,6,1,0,0
+MS1125_20180606,M,58,white,not hispanic or latino or spanish origin,25,2,2,2
+MS1143_20190222,F,63,white,not hispanic or latino or spanish origin,9,0,2,2
+MS1190_20180307,M,29,white,not hispanic or latino or spanish origin,12,1,0,0
+MS1194_20180323,M,30,declined,declined,5,0,0,0
+MS1196_20180314,F,46,white,not hispanic or latino or spanish origin,13,0,0,0
+MS1225_20180125,F,47,declined,declined,4,0,1,1
+MS1275_20180207,F,29,declined,not hispanic or latino or spanish origin,5,1,0,0
+MS1291_20180615,M,37,white,not hispanic or latino or spanish origin,7,1,2,2
+MS1292_20180627,F,55,white,not hispanic or latino or spanish origin,6,0,0,0
+MS1304_20180529,F,22,white,declined,5,1,0,0
+MS1311_20180608,F,39,white,not hispanic or latino or spanish origin,6,2,0,0
+MS1361_20180618,M,36,declined,declined,5,1,0,0
+MS1387_20171129,M,42,declined,not hispanic or latino or spanish origin,12,1,0,0
+MS1405_20180530,F,48,white,not hispanic or latino or spanish origin,25,2,1.5,1.5
+MS1441_20180120,F,34,other combinations not described,not hispanic or latino or spanish origin,3,0,0,0
+MS1464_20180420,F,66,declined,declined,11,2,5,5
+MS1502_20190227,F,46,black or african american,not hispanic or latino or spanish origin,16,1,2,2
+MS1614_20180328,F,37,declined,declined,9,1,1,1
+MS1652_20181129,M,47,white,not hispanic or latino or spanish origin,15,1,0,0
+MS1741_20180316,F,41,other combinations not described,hispanic or latino or spanish origin,7,1,1,1
+MS1858_20181129,F,25,declined,declined,6,1,0,0
+MS1973_20180613,F,32,declined,declined,7,1,2,2
+MS2005_20180922,F,24,declined,declined,5,1,1,1
